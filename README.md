@@ -7,7 +7,7 @@ A python script coded to perform LSB steganography. This script only accepts **.
 * --payload, -p : payload to encode. pass --file then payload will be considered as location to text file to be used as payload
 * --fromfile : if passed with action=encode, the payload string will be considered as location to text file.
 *  --tofile : only when action = decode, this argument will be the location of (.txt) file to write the output from image
-* --dest DEST, -d DEST  destination for the image (with name + ext)
+* --dest, -d : destination for the image (with name + ext)
 * --help, -h : for help
 
 # Example
